@@ -2,7 +2,7 @@
 
 ## About
 
-Hey:) This template can be used to build and potentially deploy Docker images via HELM charts
+Hey:)) This template can be used to build and potentially deploy Docker images via HELM charts
 
 ## Contacts
 
