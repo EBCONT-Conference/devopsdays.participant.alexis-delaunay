@@ -1,4 +1,5 @@
 FROM python:3.14.7-slim
+ENV RANDOM_VALUE
 
 WORKDIR /app
 
